@@ -7,7 +7,7 @@
 ## 主办
 - 浙江理工大学心理学系
 
-- 安徽医科大学心理学系
+- 安徽医科大学精神卫生与心理科学学院
 
 ## Projects
 - ERP + power analysis代码复现 ([url](https://www.notion.so/ERP-a2f48fd2d8264a2cbfe7bd02884e15bb)), 念靖晴(贵州师范大学)
