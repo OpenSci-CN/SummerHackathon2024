@@ -16,7 +16,7 @@
 - 视觉模型(matlab-Python), 李淼(里尔大学，法国)
 - EEG常模(HarMNqEEG)，李敏(杭州电子科技大学)
 - 如何提高认知任务的信度, 张欣琦(浙江理工)
-- Python处理fMRI的全流程, 朱珊珊(南京师范大学)
+- Python处理fMRI的全流程, 朱珊珊(南京师范大学)等, [url](https://chinaduanyun.github.io/fMRI_pipeline_python/)
 - 学习使用MNE, **training project**，季雨竹 (浙江理工)
 - cTBS 干预 AUD 的安慰剂效应, **training project**，郑辉(NIH, USA)
 - 内卷感知启动实验室范式的开发
