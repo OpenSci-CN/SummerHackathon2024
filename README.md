@@ -10,7 +10,7 @@
 - 安徽医科大学
 
 ## 特邀报告人(Invited speakers)
-- Dr. Gilad Feldman (Hong Kong University, Hong Kong SAR, CN)
+- Dr. Gilad Feldman (Hong Kong University, Hong Kong SAR, CN). Watch Dr. Feldman's talk on [Youtube](https://www.youtube.com/watch?v=fnWdcfzHZfk&list=PLRAF6P3W1K4dvKaG16-dzvzxoniIDwP7R&index=44)
 - Dr. Daniel Lakens (Eindhoven University of Technology, Eindhoven, NL)
 - Dr. Ting Xu (徐婷, Child Mind Institute, NYC, US)
 - Dr. Shuxian Jin (金淑娴, University of Sussex, Brighton, UK)
