@@ -9,6 +9,13 @@
 
 - 安徽医科大学
 
+## 特邀报告人(Invited speakers)
+- Dr. Gilad Feldman (Hong Kong University, Hong Kong SAR, CN)
+- Dr. Daniel Lakens (Eindhoven University of Technology, Eindhoven, NL)
+- Dr. Ting Xu (徐婷, Child Mind Institute, NYC, US)
+- Dr. Shuxian Jin (金淑娴, University of Sussex, Brighton, UK)
+- Dr. Hu Chuan-Peng (胡传鹏, Nanjing Normal University, Nanjing, CN)
+
 ## Projects
 - ERP + power analysis代码复现 ([url](https://www.notion.so/ERP-a2f48fd2d8264a2cbfe7bd02884e15bb)), 念靖晴(贵州师范大学)
 - 质性访谈(大学生对AI咨询师的态度)，齐巍(浙江理工)
